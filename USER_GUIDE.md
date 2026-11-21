@@ -4,7 +4,7 @@ Reze Nova — сетевой центр для Windows. Он управляет 
 
 ## Первый запуск
 
-1. Скачайте последнюю beta-сборку со страницы [GitHub Releases](https://github.com/Pystoi1173/Reze-Nova/releases/latest).
+1. Скачайте последнюю beta-сборку со страницы [GitHub Releases](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1).
 2. Распакуйте архив в отдельную папку, например `C:\Reze\Nova`.
 3. Запустите `Reze-Nova.exe` или ярлык `язык`.
 4. Подтвердите запуск от имени администратора.

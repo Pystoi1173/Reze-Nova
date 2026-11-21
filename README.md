@@ -22,7 +22,7 @@
 
 | Действие | Ссылка |
 | --- | --- |
-| Скачать beta-сборку | [Последний релиз Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/latest) |
+| Скачать beta-сборку | [Последний релиз Reze Nova](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1) |
 | Сообщить об ошибке | [Создать Issue](https://github.com/Pystoi1173/Reze-Nova/issues/new/choose) |
 | Задать вопрос и обсудить проект | [GitHub Discussions](https://github.com/Pystoi1173/Reze-Nova/discussions) |
 | Поддержать разработку | [DonationAlerts](https://www.donationalerts.com/r/povetrie) |
@@ -71,7 +71,7 @@ Reze Nova и Reze Zapret — два основных проекта Reze для 
 
 ## Установка готовой beta-сборки
 
-1. Откройте [страницу Releases](https://github.com/Pystoi1173/Reze-Nova/releases/latest).
+1. Откройте [страницу Releases](https://github.com/Pystoi1173/Reze-Nova/releases/tag/v0.1.0-beta.1).
 2. Скачайте архив beta-сборки Windows x64.
 3. Распакуйте архив в папку без кириллицы и без синхронизации с облаком, например `C:\Reze\Nova`.
 4. Запустите `Reze-Nova.exe` или ярлык `язык`.
