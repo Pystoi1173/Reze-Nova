@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Вопрос и общий чат
+    url: https://github.com/Pystoi1173/Reze-Nova/discussions
+    about: Задайте вопрос, поделитесь результатом теста или обсудите идею
+  - name: Поддержать разработку
+    url: https://www.donationalerts.com/r/povetrie
+    about: DonationAlerts для добровольной поддержки проекта
