@@ -58,7 +58,7 @@ Reze Nova и Reze Zapret — два основных проекта Reze для 
 ## Скриншоты и визуальные материалы
 
 <p align="center">
-  <img src="docs/screenshots/nova-main.png" alt="Главное окно Reze Nova" width="1000">
+  <img src="docs/screenshots/nova-main-clean.png" alt="Главное окно Reze Nova" width="1000">
 </p>
 
 <p align="center">
